@@ -1,8 +1,5 @@
 # terraform-aws-backend
 
-[(https://github.com/EluminaGroup/terraform-aws-backend/workflows/Lint/badge.svg)](https://github.com/EluminaGroup/terraform-aws-backend/actions)
-[![LICENSE](https://img.shields.io/github/license/EluminaGroup/terraform-aws-backend)](https://github.com/EluminaGroup/terraform-aws-backend/blob/master/LICENSE)
-
 This terraform module implements what is described in the Terraform S3 Backend [documentation](https://www.terraform.io/docs/backends/types/s3.html).
 
 S3 Encryption is enabled and Public Access policies used to ensure security.
